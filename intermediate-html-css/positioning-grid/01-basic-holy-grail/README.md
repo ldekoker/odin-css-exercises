@@ -12,6 +12,9 @@ Now it's time to practice the Grid tools we've learned and create a layout that 
 
 ![desired outcome](./desired-outcome.png)
 
+
+
+
 ### Self Check
 
 - The gap is 15px
